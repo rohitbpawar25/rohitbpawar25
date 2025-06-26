@@ -2,20 +2,25 @@
 
 🎓 B.E. Computer Engineering  
 🏫 Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar  
-📍 Pune, Maharashtra
+📍 Pune, Maharashtra  
 
 ---
 
-## 💼 Experience
+## 🧾 Summary
+
+A passionate computer engineering student with strong interest in programming, data science, and machine learning.  
+Looking for opportunities to apply my skills and grow in a challenging tech environment.
+
+---
+
+## 💼 Work Experience
 
 ### 🏭 Tata Cummins  
-**Task Locator / Mill Trainer (2021 – 2023)**  
-- Worked with Oracle WMS for inventory control and order processing.
+Task Locator / Mill Trainer (2021 – 2023)  
+- Managed inventory and stock using Oracle WMS  
+- Optimized warehouse logistics and accuracy
 
 ### 💻 The Website Makers  
-**Python Intern (2023 – 2024)**  
-- Developed Python-based applications and collaborated on software solutions.
-
----
-
-*Passionate about learning, programming, and solving real-world problems.*
+Python Intern (2023 – 2024)  
+- Developed Python-based software applications  
+- Collaborated with teams and strengthened backend skills
