@@ -23,20 +23,40 @@ A Motivated And Analytical Computer Engineering Student With A Strong Interest I
   <!-- Data Analytics -->
   <img src="https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas" />
   <img src="https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy" />
+  <img src="https://img.shields.io/badge/-Data%20Cleaning-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Data%20Transformation-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Data%20Encoding%20(Label,%20One--Hot)-000?style=flat" />
+  <img src="https://img.shields.io/badge/-EDA-000?style=flat" />
   <img src="https://img.shields.io/badge/-Matplotlib-000?style=flat&logo=matplotlib" />
   <img src="https://img.shields.io/badge/-Seaborn-000?style=flat" />
 
   <!-- Machine Learning -->
   <img src="https://img.shields.io/badge/-Scikit%20Learn-000?style=flat&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/-Linear%20Regression-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Logistic%20Regression-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Decision%20Tree-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Random%20Forest-000?style=flat" />
+  <img src="https://img.shields.io/badge/-KNN-000?style=flat" />
+  <img src="https://img.shields.io/badge/-K--Means-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Model%20Evaluation-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Train--Test%20Split-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Feature%20Scaling-000?style=flat" />
 
   <!-- Generative AI -->
-  <img src="https://img.shields.io/badge/-OpenAI-000?style=flat&logo=openai" />
-  <img src="https://img.shields.io/badge/-Hugging%20Face-000?style=flat&logo=huggingface" />
+  <img src="https://img.shields.io/badge/-Prompt%20Engineering-000?style=flat" />
+  <img src="https://img.shields.io/badge/-GPT-000?style=flat&logo=openai" />
+  <img src="https://img.shields.io/badge/-BERT-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Codex-000?style=flat" />
+  <img src="https://img.shields.io/badge/-DALL·E-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Hugging%20Face%20Transformers-000?style=flat&logo=huggingface" />
 
   <!-- Automation -->
-  <img src="https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi" />
   <img src="https://img.shields.io/badge/-Python%20Scripting-000?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-Cron-000?style=flat&logo=cron" />
+  <img src="https://img.shields.io/badge/-File%20Operations-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Email%20Automation%20(smtplib)-000?style=flat" />
+  <img src="https://img.shields.io/badge/-API%20Integration-000?style=flat&logo=fastapi" />
+  <img src="https://img.shields.io/badge/-Task%20Scheduling%20(Cron)-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Exception%20Handling-000?style=flat" />
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5" />
@@ -45,10 +65,12 @@ A Motivated And Analytical Computer Engineering Student With A Strong Interest I
   <!-- Backend -->
   <img src="https://img.shields.io/badge/-Django-000?style=flat&logo=django" />
   <img src="https://img.shields.io/badge/-Flask-000?style=flat&logo=flask" />
+  <img src="https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi" />
   <img src="https://img.shields.io/badge/-OpenCV-000?style=flat&logo=opencv" />
 
   <!-- Database -->
   <img src="https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-NoSQL-000?style=flat" />
   <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb" />
 
   <!-- Tools & Frameworks -->
@@ -57,11 +79,12 @@ A Motivated And Analytical Computer Engineering Student With A Strong Interest I
   <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/-Anaconda-000?style=flat&logo=anaconda" />
-  <img src="https://img.shields.io/badge/-Jupyter-000?style=flat&logo=jupyter" />
+  <img src="https://img.shields.io/badge/-Jupyter%20Notebook-000?style=flat&logo=jupyter" />
   <img src="https://img.shields.io/badge/-VS%20Code-000?style=flat&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/-Google%20Colab-000?style=flat&logo=googlecolab" />
 
 </p>
+
 
 ---
 ## 🎓 Education
