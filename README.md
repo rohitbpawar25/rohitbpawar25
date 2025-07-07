@@ -67,7 +67,7 @@ A motivated and analytical Computer Engineering student with a strong interest i
 ## 🎓 Education
 
 **Bachelor of Engineering in Computer Engineering**  
-Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar
+- Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar
 
 ---
 
