@@ -1,11 +1,5 @@
 <h1 align="center"><strong>ROHIT PAWAR</strong></h1>
 
-<p align="center">
-📧 <a href="mailto:rohitbpawar25@outlook.com">rohitbpawar25@outlook.com</a> | 📞 9561624580  
-<br>
-🔗 <a href="https://www.linkedin.com/in/rohit-pawar25">LinkedIn</a> | <a href="https://github.com/rohitbpawar25">GitHub</a>
-</p>
-
 ---
 
 ## 📝 Summary
@@ -89,18 +83,6 @@ Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar
 - English  
 - Hindi  
 - Marathi
-
----
-
-## 📊 SAGE COLUMNS
-
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Python   | Django   | Pandas   |
-| SQL      | Flask    | NumPy    |
-| EDA      | GitHub   | Tableau  |
-| OpenCV   | FastAPI  | Power BI |
-
 ---
 
 <p align="center">
