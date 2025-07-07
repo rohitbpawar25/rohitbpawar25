@@ -25,7 +25,6 @@ A motivated and analytical Computer Engineering student with a strong interest i
   <img src="https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy" />
   <img src="https://img.shields.io/badge/-Matplotlib-000?style=flat&logo=matplotlib" />
   <img src="https://img.shields.io/badge/-Seaborn-000?style=flat" />
-  <img src="https://img.shields.io/badge/-DataWrangler-000?style=flat&logo=databricks" />
 
   <!-- Machine Learning -->
   <img src="https://img.shields.io/badge/-Scikit%20Learn-000?style=flat&logo=scikit-learn" />
