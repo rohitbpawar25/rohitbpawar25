@@ -12,7 +12,7 @@ A motivated and analytical Computer Engineering student with a strong interest i
 
 ---
 
-## 🚀 Skills & Tools (Icon Only)
+## 🚀 Skills & Tools
 
 <p align="center">
 
