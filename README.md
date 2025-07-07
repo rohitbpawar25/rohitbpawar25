@@ -1,7 +1,4 @@
 <h1 align="center"><strong>ROHIT PAWAR</strong></h1>
-
----
-
 ## 📝 Summary
 
 A Motivated And Analytical Fresher With a Strong Interest In Python Development, Data-Driven Problem-Solving, And Automation.  
@@ -84,7 +81,3 @@ Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar
 - Hindi  
 - Marathi
 ---
-
-<p align="center">
-🔗 <a href="https://github.com/rohitbpawar25"><strong>View My GitHub for Project Repositories</strong></a>
-</p>
