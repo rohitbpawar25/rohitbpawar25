@@ -1,4 +1,5 @@
 <h1 align="center"><strong>ROHIT PAWAR</strong></h1>
+---
 ## 📝 Summary
 
 A Motivated And Analytical Fresher With a Strong Interest In Python Development, Data-Driven Problem-Solving, And Automation.  
