@@ -84,34 +84,6 @@ A motivated and analytical Computer Engineering student with a strong interest i
 - Participated in solution design, review sessions, and data-driven development planning.
 
 ---
-
-## 🚀 Projects
-
-### 🫡 Diagnosis of Respiratory Conditions Using CNN-LSTM *(Final Year Project)*  
-<a href="https://github.com/rohitbpawar25/BE_Project_2025">
-  <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
-</a>  
-
-### 🧹 Duplicate File Removal Automation Script  
-<a href="#">
-  <img src="https://img.shields.io/badge/View_Script-blue?style=for-the-badge&logo=python" />
-</a>  
-
-### 📦 Technical Assignment
-<a href="https://github.com/rohitbpawar25/Marvellous-Python-Assignments/tree/2f1e97fcde951ae1dba8abcccc62e3c9b89209d0/Assignment_22">
-  <img src="https://img.shields.io/badge/View_Assignment-blue?style=for-the-badge&logo=jupyter" />
-</a>  
-
----
-
-## 🏅 Certifications
-
-<a href="https://github.com/rohitbpawar25/Certifications">
-  <img src="https://img.shields.io/badge/View_Certifications-blue?style=for-the-badge&logo=openbadges" />
-</a>  
-
----
-
 ## 🌐 Languages
 
 English | Hindi | Marathi
