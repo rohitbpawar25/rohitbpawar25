@@ -72,7 +72,6 @@ Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar
 <a href="https://github.com/rohitbpawar25/Certifications">
   <img src="https://img.shields.io/badge/View_Certifications-blue?style=for-the-badge&logo=openbadges" />
 </a>  
-- Earned certifications and internship offers based on practical evaluations and performance.
 
 ---
 
