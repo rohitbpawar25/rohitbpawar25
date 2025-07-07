@@ -1,6 +1,5 @@
 <h1 align="center"><strong>ROHIT PAWAR</strong></h1>
 
-
 ## 📝 Summary
 
 A Motivated And Analytical Fresher With a Strong Interest In Python Development, Data-Driven Problem-Solving, And Automation.  
@@ -51,29 +50,32 @@ Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar
 
 ## 🚀 Projects
 
-### 🫁 DIAGNOSIS RESPIRATORY CONDITIONS VIA LUNG SOUND USING CNN-LSTM *(Final Year Project)*  
-🔗 [Project Link](#)  
-- Led a project focused on the analysis of lung sounds to enhance diagnostic accuracy and monitoring of respiratory conditions.
-
-### 🥔 Potato Disease Classification *(Deep Learning Project)*  
-🔗 [Project Link](#)  
-- Image classification using CNN and built a mobile app where farmers can take a picture to check for plant disease.
+### 🫁 Diagnosis of Respiratory Conditions Using CNN-LSTM *(Final Year Project)*  
+<a href="https://github.com/rohitbpawar25/BE_Project_2025">
+  <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
+</a>  
+- Analyzed lung sounds using deep learning (CNN-LSTM) to improve diagnosis of respiratory diseases.
 
 ### 🧹 Duplicate File Removal Automation Script  
-🔗 [Project Link](#)  
-- Project using Python, Hashlib, File Handling, smtplib, Task Scheduling, and Automation  
-- Script removes duplicate files using Checksum and emails logs at scheduled intervals.
+<a href="#">
+  <img src="https://img.shields.io/badge/View_Script-blue?style=for-the-badge&logo=python" />
+</a>  
+- Script using `hashlib`, file handling, and `smtplib` to detect & delete duplicate files and send logs.
 
-### 📦 Technical Assignment  
-🔗 [Project Link](#)  
-- Assignment involving Data Science, Machine Learning, Automation, and Generative AI concepts
+### 📦 Technical Assignment (DS + ML + AI)  
+<a href="https://github.com/rohitbpawar25/Marvellous-Python-Assignments/tree/2f1e97fcde951ae1dba8abcccc62e3c9b89209d0/Assignment_22">
+  <img src="https://img.shields.io/badge/View_Assignment-blue?style=for-the-badge&logo=jupyter" />
+</a>  
+- Solved ML and automation tasks integrating Data Science and Generative AI principles.
 
 ---
 
 ## 🏅 Certifications
 
-- Achieved Certifications with internship offers based on practical performance and evaluation.  
-🔗 [View Certificates](#)
+<a href="https://github.com/rohitbpawar25/Certifications">
+  <img src="https://img.shields.io/badge/View_Certifications-blue?style=for-the-badge&logo=openbadges" />
+</a>  
+- Earned certifications and internship offers based on practical evaluations and performance.
 
 ---
 
@@ -82,4 +84,5 @@ Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar
 - English  
 - Hindi  
 - Marathi
+
 ---
