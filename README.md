@@ -1,5 +1,14 @@
 <h1 align="center"><strong>ROHIT PAWAR</strong></h1>
 
+<p align="center">
+  <a href="mailto:rohitbpawar25@outlook.com">📧 rohitbpawar25@outlook.com</a> |
+  📱 9561624580 |
+  <a href="https://www.linkedin.com/in/rohit-pawar25">🔗 LinkedIn</a> |
+  <a href="https://github.com/rohitbpawar25">GitHub</a>
+</p>
+
+---
+
 ## 📝 Summary
 
 A Motivated And Analytical Fresher With a Strong Interest In Python Development, Data-Driven Problem-Solving, And Automation.  
@@ -82,3 +91,9 @@ Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar
 - Marathi
 
 ---
+
+## 📊 GitHub Stats
+
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitbpawar25&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbpawar25&layout=compact)  
+![Profile Views](https://komarev.com/ghpvc/?username=rohitbpawar25&color=blue)
