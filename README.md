@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+👋,+I'm+Rohit+Pawar;Python+Developer;ML+and+AI+Learner;Welcome+to+my+GitHub!&center=true&width=500" />
 </p>
+
 ## 📝 Summary
 
 A Motivated And Analytical Fresher With a Strong Interest In Python Development, Data-Driven Problem-Solving, And Automation.  
