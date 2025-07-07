@@ -97,7 +97,7 @@ A motivated and analytical Computer Engineering student with a strong interest i
   <img src="https://img.shields.io/badge/View_Script-blue?style=for-the-badge&logo=python" />
 </a>  
 
-### 📦 Technical Assignment (DS + ML + AI)  
+### 📦 Technical Assignment
 <a href="https://github.com/rohitbpawar25/Marvellous-Python-Assignments/tree/2f1e97fcde951ae1dba8abcccc62e3c9b89209d0/Assignment_22">
   <img src="https://img.shields.io/badge/View_Assignment-blue?style=for-the-badge&logo=jupyter" />
 </a>  
@@ -114,6 +114,5 @@ A motivated and analytical Computer Engineering student with a strong interest i
 
 ## 🌐 Languages
 
-- English  
-- Hindi  
-- Marathi
+English | Hindi | Marathi
+
