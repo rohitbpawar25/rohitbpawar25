@@ -1,18 +1,20 @@
 <h1 align="center"><strong>ROHIT PAWAR</strong></h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+👋,+I'm+Rohit+Pawar;Python+Developer;ML+and+AI+Learner;Welcome+to+my+GitHub!&center=true&width=500" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+%F0%9F%91%8B,+I'm+Rohit+Pawar;Python+Developer;ML+and+AI+Learner;Welcome+to+my+GitHub!&center=true&width=500" />
 </p>
 
-## 📝 Summary
+---
 
-A Motivated And Analytical Fresher With a Strong Interest In Python Development, Data-Driven Problem-Solving, And Automation.  
-Known For a Structured Approach To Learning, Attention To Detail, And Adaptability In Dynamic Environments.  
-Eager To Contribute To Real-World Projects, Collaborate With Diverse Teams, And Continuously Grow Both Technically And Professionally.
+## ✍️ Summary
+
+A motivated and analytical Computer Engineering student with a strong interest in Python development, data-driven problem-solving, and automation. Known for a structured approach to learning, attention to detail, and adaptability in dynamic environments. Eager to contribute to real-world projects, collaborate with diverse teams, and continuously grow both technically and professionally.
 
 ---
+
 ## 🚀 Skills & Tools (Icon Only)
 
-<p align="left">
+<p align="center">
 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
@@ -36,8 +38,6 @@ Eager To Contribute To Real-World Projects, Collaborate With Diverse Teams, And 
   <img src="https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi" />
   <img src="https://img.shields.io/badge/-Python%20Scripting-000?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-Cron-000?style=flat&logo=cron" />
-  <img src="https://img.shields.io/badge/-Postman-000?style=flat&logo=postman" />
-  <img src="https://img.shields.io/badge/-Zapier-000?style=flat&logo=zapier" />
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5" />
@@ -46,13 +46,11 @@ Eager To Contribute To Real-World Projects, Collaborate With Diverse Teams, And 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/-Django-000?style=flat&logo=django" />
   <img src="https://img.shields.io/badge/-Flask-000?style=flat&logo=flask" />
-  <img src="https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi" />
   <img src="https://img.shields.io/badge/-OpenCV-000?style=flat&logo=opencv" />
 
   <!-- Database -->
   <img src="https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql" />
   <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase" /> <!-- closest for NoSQL -->
 
   <!-- Tools & Frameworks -->
   <img src="https://img.shields.io/badge/-Power%20BI-000?style=flat&logo=powerbi" />
@@ -65,7 +63,6 @@ Eager To Contribute To Real-World Projects, Collaborate With Diverse Teams, And 
   <img src="https://img.shields.io/badge/-Google%20Colab-000?style=flat&logo=googlecolab" />
 
 </p>
-
 
 ---
 
@@ -81,20 +78,19 @@ Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar
 
 ### Codsoft – *Data Science Virtual Internship*  
 📅 March 2025 – April 2025  
-- Successfully completed a 4-week virtual internship focused on learning and applying core Data Science concepts.  
-- Gained hands-on experience through task-based projects, improving analytical thinking, coding proficiency, and problem-solving skills in real-world scenarios.
+- Completed a 4-week virtual internship applying core data science concepts.  
+- Worked on projects involving EDA, machine learning, and automation using Python.
 
 ### Zidio Development – *Data Science & Analyst Virtual Internship*  
 📅 April 2025 – July 2025  
-- Completed a 3-month virtual internship focused on real-world projects in Data Science and Analytics.  
-- Gained hands-on experience in research, implementation, data-driven decision-making, and collaborative product development.  
-- Contributed to solution design, data analysis, and participated in team planning and review sessions.
+- Contributed to real-world data analytics projects with a focus on research, implementation, and collaboration.  
+- Participated in solution design, review sessions, and data-driven development planning.
 
 ---
 
 ## 🚀 Projects
 
-### 🫁 Diagnosis of Respiratory Conditions Using CNN-LSTM *(Final Year Project)*  
+### 🫡 Diagnosis of Respiratory Conditions Using CNN-LSTM *(Final Year Project)*  
 <a href="https://github.com/rohitbpawar25/BE_Project_2025">
   <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
 </a>  
@@ -124,5 +120,3 @@ Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar
 - English  
 - Hindi  
 - Marathi
-
----
