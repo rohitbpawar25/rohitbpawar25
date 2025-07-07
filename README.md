@@ -66,7 +66,7 @@ A motivated and analytical Computer Engineering student with a strong interest i
 ---
 ## 🎓 Education
 
-**Bachelor of Engineering in Computer Engineering**  
+Bachelor of Engineering in Computer Engineering**  
 Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar   *2021 – 2025
 ---
 
