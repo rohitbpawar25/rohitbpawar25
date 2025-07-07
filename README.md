@@ -75,13 +75,11 @@ A motivated and analytical Computer Engineering student with a strong interest i
 
 ### Codsoft – *Data Science Virtual Internship*  
 📅 March 2025 – April 2025  
-- Completed a 4-week virtual internship applying core data science concepts.  
-- Worked on projects involving EDA, machine learning, and automation using Python.
+- Successfully completed a 4-week virtual internship focused on learning and applying core Data Science concepts. Gained hands-on experience through task-based projects, improving analytical thinking, coding proficiency, and problem-solving skills in real-world scenarios.
 
 ### Zidio Development – *Data Science & Analyst Virtual Internship*  
 📅 April 2025 – July 2025  
-- Contributed to real-world data analytics projects with a focus on research, implementation, and collaboration.  
-- Participated in solution design, review sessions, and data-driven development planning.
+- Completed a 3-month virtual internship focused on real-world projects in Data Science and Analytics. Gained hands-on experience in research, implementation, data-driven decision-making, and collaborative product development. Contributed to solution design, data analysis, and participated in team planning and review sessions.
 
 ---
 ## 🌐 Languages
