@@ -8,8 +8,7 @@
 
 ## ✍️ Summary
 
-A motivated and analytical Computer Engineering student with a strong interest in Python development, data-driven problem-solving, and automation. Known for a structured approach to learning, attention to detail, and adaptability in dynamic environments. Eager to contribute to real-world projects, collaborate with diverse teams, and continuously grow both technically and professionally.
-
+A Motivated And Analytical Computer Engineering Student With A Strong Interest In Python Development, Data-Driven Problem-Solving, And Automation. Known For A Structured Approach To Learning, Attention To Detail, And Adaptability In Dynamic Environments. Eager To Contribute To Real-World Projects, Collaborate With Diverse Teams, And Continuously Grow Both Technically And Professionally.
 ---
 
 ## 🚀 Skills & Tools
