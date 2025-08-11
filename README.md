@@ -41,6 +41,9 @@ A Motivated And Analytical Computer Engineering Student With A Strong Interest I
   <img src="https://img.shields.io/badge/-Model%20Evaluation-000?style=flat" />
   <img src="https://img.shields.io/badge/-Train--Test%20Split-000?style=flat" />
   <img src="https://img.shields.io/badge/-Feature%20Scaling-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Pipeline-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Joblib-000?style=flat" />
+
 
   <!-- Generative AI -->
   <img src="https://img.shields.io/badge/-Prompt%20Engineering-000?style=flat" />
