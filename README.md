@@ -8,7 +8,7 @@
 
 ## ✍️ Career Objective
 
-Aspiring Python Developer & Machine Learning Engineer with expertise in automation, data science, and deep learning. Skilled in designing intelligent systems, building automation scripts, and applying ML/DL models for real-world problem solving. Seeking opportunities to contribute to impactful projects using modern AI technologies.
+Aspiring Python Developer & Machine Learning Engineer With Expertise In Automation, Data Science, And Deep Learning. Skilled In Designing Intelligent Systems, Building Automation Scripts, And Applying ML/DL Models For Real-World Problem Solving. Seeking Opportunities To Contribute To Impactful Projects Using Modern AI Technologies.
 
 ---
 
