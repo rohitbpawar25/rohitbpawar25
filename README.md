@@ -99,10 +99,10 @@ Aspiring Python Developer & Machine Learning Engineer With Expertise In Automati
 
 ## Work History
 
-**Company Name**: Stioc and Salamander.
-**Position**: Data Science Trainee.
-**Duration**: August 2025 - Present.
-**Domain Knowledge**: Data Science, Machine Learning, Python, Automation.
+**Company Name**: Stioc and Salamander  
+**Position**: Data Science Trainee  
+**Duration**: August 2025 - Present  
+**Domain Knowledge**: Data Science, Machine Learning, Python, Automation  
 **Responsibilities**: Assist With Data Analysis And Visualization, Support The Development Of Machine Learning Models, Clean And Preprocess Data, Automate Data Processing Tasks, And Collaborate With Senior Data Scientists On Projects.
 
 ---
