@@ -94,21 +94,6 @@ Aspiring Python Developer & Machine Learning Engineer With Expertise In Automati
 
 **Bachelor of Engineering in Computer Engineering**  
 - Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar
-
----
-
-## 💼 Work History
-
-**Company**: Stioc and Salamander    
-**Position**: Data Science Trainee    
-**Duration**: August 2025 – Present    
-**Domain Knowledge**: Data Science, Machine Learning, Python, Automation    
-**Responsibilities**:    
-- Assist With Data Analysis And Visualization  
-- Support ML Model Development  
-- Clean And Preprocess Datasets  
-- Automate Data Workflows  
-- Collaborate With Senior Data Scientists  
 ---
 ## 🌐 Languages
 
