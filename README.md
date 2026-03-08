@@ -55,48 +55,71 @@ Aspiring **Python Developer & Machine Learning Engineer** with expertise in **Au
 ### 🐍 Languages & Core
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_DB-F00000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🧠 Machine Learning & Data Science
+### 🧠 Machine Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/Data_Analysis-005C84?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linear_Regression-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Logistic_Regression-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KNN-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Random_Forest-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/K--Means_Clustering-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ensemble_Learning-20232A?style=for-the-badge" />
 </p>
 
-### 🤖 Generative AI
+### 🔬 Deep Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/FNN-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNN-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RNN-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LSTM-20232A?style=for-the-badge" />
+</p>
+
+### 🤖 Generative AI & NLP
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Transformers_(Encoder_Decoder)-3498DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BERT_&_GBT-3498DB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### 📊 Data Analysis & Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Analysis-005C84?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Other Skills
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### 🧰 Tools & Platforms
-<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Automation-5C3EE8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scheduling-5C3EE8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Team_Leadership-E34F26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inventory_Management-005C84?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pick_&_Pack-005C84?style=for-the-badge" />
 </p>
 
 ---
