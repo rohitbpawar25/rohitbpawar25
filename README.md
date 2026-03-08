@@ -1,101 +1,107 @@
-<h1 align="center"><strong>ROHIT PAWAR</strong></h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</p>
+
+<h1 align="center">Hi there 👋, I'm Rohit Pawar</h1>
+<h3 align="center">Python Developer | Machine Learning & AI Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+%F0%9F%91%8B,+I'm+Rohit+Pawar;Python+Developer;ML+and+AI+Learner;Welcome+to+my+GitHub!&center=true&width=500" />
+  <a href="https://github.com/rohitpawar25">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;Machine+Learning+Engineer;Data+Science+%26+Deep+Learning+Enthusiast;Building+Intelligent+Automation+Systems!" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Connect with me -->
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/rohitpawar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-## ✍️ Career Objective
+## 👨‍💻 About Me
 
-Aspiring Python Developer & Machine Learning Engineer With Expertise In Automation, Data Science, And Deep Learning. Skilled In Designing Intelligent Systems, Building Automation Scripts, And Applying ML/DL Models For Real-World Problem Solving. Seeking Opportunities To Contribute To Impactful Projects Using Modern AI Technologies.
+Aspiring **Python Developer & Machine Learning Engineer** with expertise in **Automation, Data Science, and Deep Learning**. I am skilled in designing intelligent systems, building automation scripts, and applying ML/DL models for real-world problem-solving.
+
+- 🔭 I’m currently focused on **AI technologies** and **Machine Learning Models**.
+- 🌱 I’m constantly learning **Generative AI**, **Model Optimization**, and **Data Analytics**.
+- 💡 Seeking opportunities to contribute to impactful projects using modern AI technologies.
+- ⚡ Fun fact: I love automating repetitive tasks to make life easier!
 
 ---
 
-## 🚀 Skills & Tools
+## �️ Skills & Technologies
 
-<p align="center">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql" />
-
-  <!-- Data Analytics -->
-  <img src="https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas" />
-  <img src="https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy" />
-  <img src="https://img.shields.io/badge/-Data%20Cleaning-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Data%20Transformation-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Data%20Encoding%20(Label,%20One--Hot)-000?style=flat" />
-  <img src="https://img.shields.io/badge/-EDA-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Matplotlib-000?style=flat&logo=matplotlib" />
-  <img src="https://img.shields.io/badge/-Seaborn-000?style=flat" />
-
-  <!-- Machine Learning -->
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-000?style=flat&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/-Linear%20Regression-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Logistic%20Regression-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Decision%20Tree-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Random%20Forest-000?style=flat" />
-  <img src="https://img.shields.io/badge/-KNN-000?style=flat" />
-  <img src="https://img.shields.io/badge/-K--Means-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Model%20Evaluation-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Train--Test%20Split-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Feature%20Scaling-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Pipeline-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Joblib-000?style=flat" />
-
-
-  <!-- Generative AI -->
-  <img src="https://img.shields.io/badge/-Prompt%20Engineering-000?style=flat" />
-  <img src="https://img.shields.io/badge/-GPT-000?style=flat&logo=openai" />
-  <img src="https://img.shields.io/badge/-BERT-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Codex-000?style=flat" />
-  <img src="https://img.shields.io/badge/-DALL·E-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Hugging%20Face%20Transformers-000?style=flat&logo=huggingface" />
-
-  <!-- Automation -->
-  <img src="https://img.shields.io/badge/-Python%20Scripting-000?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-File%20Operations-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Email%20Automation%20(smtplib)-000?style=flat" />
-  <img src="https://img.shields.io/badge/-API%20Integration-000?style=flat&logo=fastapi" />
-  <img src="https://img.shields.io/badge/-Task%20Scheduling%20(Cron)-000?style=flat" />
-  <img src="https://img.shields.io/badge/-Exception%20Handling-000?style=flat" />
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3" />
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/-Django-000?style=flat&logo=django" />
-  <img src="https://img.shields.io/badge/-Flask-000?style=flat&logo=flask" />
-  <img src="https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi" />
-  <img src="https://img.shields.io/badge/-OpenCV-000?style=flat&logo=opencv" />
-
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/-NoSQL-000?style=flat" />
-  <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb" />
-
-  <!-- Tools & Frameworks -->
-  <img src="https://img.shields.io/badge/-Power%20BI-000?style=flat&logo=powerbi" />
-  <img src="https://img.shields.io/badge/-Tableau-000?style=flat&logo=tableau" />
-  <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/-Anaconda-000?style=flat&logo=anaconda" />
-  <img src="https://img.shields.io/badge/-Jupyter%20Notebook-000?style=flat&logo=jupyter" />
-  <img src="https://img.shields.io/badge/-VS%20Code-000?style=flat&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/-Google%20Colab-000?style=flat&logo=googlecolab" />
-
+### 🐍 Languages & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+### 🧠 Machine Learning & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+### 🤖 Generative AI
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BERT_&_Transformers-3498DB?style=for-the-badge" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitpawar25&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=8B949E" alt="Rohit's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpawar25&theme=transparent&hide_border=true&title_color=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=8B949E&sideLabels=8B949E&dates=8B949E" alt="Rohit's GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpawar25&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=8B949E" alt="Top Languages" />
+</div>
+
+---
+
 ## 🎓 Education
 
 **Bachelor of Engineering in Computer Engineering**  
-- Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar
----
+📍 *Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar*
+
 ## 🌐 Languages
 
-English | Hindi | Marathi
+🗣️ **English** | **Hindi** | **Marathi**
 
+---
+<p align="center">
+  <i>Seeking opportunities to contribute to impactful projects using modern AI technologies!</i><br/>
+  <i>Made with ❤️ by Rohit Pawar</i>
+</p>
