@@ -4,18 +4,18 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Rohit Pawar</h1>
-<h3 align="center">Python Developer | Machine Learning & AI Learner</h3>
+<h3 align="center">Python Developer | Machine Learning & AI Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/rohitpawar25">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;Machine+Learning+Engineer;Data+Science+%26+Deep+Learning+Enthusiast;Building+Intelligent+Automation+Systems!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Analyst+%26+Data+Scientist;Machine+Learning+Engineer;AI+Engineer;Building+Intelligent+Automation+Systems!" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Connect with me -->
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/rohitpawar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/rohit-pawar25"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -24,18 +24,38 @@
 
 Aspiring **Python Developer & Machine Learning Engineer** with expertise in **Automation, Data Science, and Deep Learning**. I am skilled in designing intelligent systems, building automation scripts, and applying ML/DL models for real-world problem-solving.
 
-- 🔭 I’m currently focused on **AI technologies** and **Machine Learning Models**.
-- 🌱 I’m constantly learning **Generative AI**, **Model Optimization**, and **Data Analytics**.
-- 💡 Seeking opportunities to contribute to impactful projects using modern AI technologies.
+- 🔭 I’m currently working as an **AI/ML Intern at Nova Techset Ltd.**
+- 🌱 I’m constantly learning **Generative AI**, **LangChain**, **LangGraph**, and **Model Optimization**.
+- 💡 Open to roles as a **Python Developer, Data Analyst, Data Scientist, Machine Learning Engineer, or AI Engineer**.
 - ⚡ Fun fact: I love automating repetitive tasks to make life easier!
 
 ---
 
-## �️ Skills & Technologies
+## 💼 Experience
+
+### 🚀 AI/ML Intern
+**Nova Techset Ltd.** | *Pune, Maharashtra, India*
+> **Nov 2025 - Present**
+- **Skills:** Python, LangChain, LangGraph
+
+### 📊 Data Science Trainee
+**Stoic & Salamander Global Corporation** | *Pune (Hybrid)*
+> **Aug 2025 - Feb 2026**
+- **Skills:** Python, Data Analysis
+
+### ⚙️ Task Locator / Mill Trainer
+**Cummins Inc.** | *Phaltan (On-site)*
+> **Jun 2021 - Dec 2023**
+- **Skills:** Oracle Database, Team Leadership
+
+---
+
+## 🛠️ Skills & Technologies
 
 ### 🐍 Languages & Core
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_DB-F00000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -43,6 +63,7 @@ Aspiring **Python Developer & Machine Learning Engineer** with expertise in **Au
 
 ### 🧠 Machine Learning & Data Science
 <p align="left">
+  <img src="https://img.shields.io/badge/Data_Analysis-005C84?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -53,10 +74,11 @@ Aspiring **Python Developer & Machine Learning Engineer** with expertise in **Au
 
 ### 🤖 Generative AI
 <p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BERT_&_Transformers-3498DB?style=for-the-badge" />
 </p>
 
 ### ⚙️ Backend & Frameworks
@@ -93,8 +115,11 @@ Aspiring **Python Developer & Machine Learning Engineer** with expertise in **Au
 
 ## 🎓 Education
 
-**Bachelor of Engineering in Computer Engineering**  
-📍 *Sharadchandra Pawar College of Engineering and Technology, Someshwarnagar*
+🎓 **Bachelor of Engineering - BE, Computer Engineering**  
+📍 *Shri Shradhchandra Pawar College Of Engineering And Technology*  
+📅 *Dec 2021 - Jul 2025* | 🏆 **Grade: First Class**
+
+---
 
 ## 🌐 Languages
 
