@@ -1,7 +1,7 @@
 <h1 align="center"><strong>ROHIT PAWAR</strong></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+%F0%9F%91%8B,+I'm+Rohit+Pawar;Python+Developer;AI+and+ML+Engineer;Welcome+to+my+GitHub!&center=true&width=500" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+%F0%9F%91%8B,+I'm+Rohit+Pawar;AI+and+ML+Engineer;Welcome+to+my+GitHub!&center=true&width=500" />
 </p>
 
 ---
